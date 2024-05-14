@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.modal{
+  background-color: rgba(182, 87, 87, 0.68);
+  border: 1px solid black;
+  width: 300px;
+  height: 170px;
+  margin: 15px auto 0px;
+}
+
+.modalCloseBtn{
+  background-color: rgba(118, 167, 172, 0.68);
+  margin-top: 25px;
+  padding: 5px 15px;
+}
